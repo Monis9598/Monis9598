@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monis9598
-- 👀 I’m interested in Robotics, Android development Frond end development and Im excited about new learning and Explore.
+- 👀 I’m interested in Robotics, Android development Frond end development and  I am excited about new learning and Explore.
 - 🌱 I’m currently learning Automation and Robotics engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohdmonis2353@gmail.com
