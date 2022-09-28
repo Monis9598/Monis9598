@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Automation and Robotics engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohdmonis2353@gmail.com
+- I am always open to exploring and learning new fields. I want to gain experience and practical knowledge as much as possible.
 
 <!---
 Monis9598/Monis9598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
