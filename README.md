@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monis9598
+- 👋 Hi, My name is Mohd Monis and I am a 3rd-year undergrad in the department of Automation and Robotics at Dr.D.Y.Patil Institute of Technology Pune 
 - 👀 I’m interested in Robotics, Android development Frond end development and  I am excited about new learning and Explore.
 - 🌱 I’m currently learning Automation and Robotics engineering 
 - 💞️ I’m looking to collaborate on ...
